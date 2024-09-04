@@ -8,4 +8,4 @@ Power BI Desktop
 
 # Content
 
-The file demonstrates usage of different dax queires, charts, usuage of AI Visual, adding new columns and much more.  
+The file demonstrates usage of different dax queires, charts, usuage of AI Visual, adding new columns and much more.  For detailed steps follow sales dashboard PDF
